@@ -1,4 +1,4 @@
-# Suika-Game-MP1
+#  Suika-Game-MP1
 
 ## The name of my game is Suika game and it is an attempt at copying an already existing game with the same name.
 
