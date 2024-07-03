@@ -1,0 +1,11 @@
+
+@use 'sass:math';
+
+@function calculate-blur($radius) {
+    @return math.div($radius, 3);
+  }
+  
+  @function darken-color($color, $amount) {
+    @return darken($color, $amount);
+  }
+  
